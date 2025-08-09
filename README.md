@@ -1,4 +1,4 @@
-# calculator
+# CALCULATOR
 
 javascipt kullanılarak oluşturulmuştur.
 
