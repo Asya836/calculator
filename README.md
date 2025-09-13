@@ -1,9 +1,9 @@
 # CALCULATOR
 
-javascipt kullanılarak oluşturulmuştur.
+Javascipt kullanılarak oluşturulmuştur.
 
 İşlevleri:
 - 4 işlem yapabilir.
-- girilen sayının karesini hesaplayabilir.
-- girilen sayıyı yüzdeye çevirebilir.
+- Girilen sayının karesini hesaplayabilir.
+- Girilen sayıyı yüzdeye çevirebilir.
 <img width="1300" height="680" alt="calc" src="https://github.com/user-attachments/assets/301bfe1c-53ee-4f31-9511-f9c8c989e105" />
